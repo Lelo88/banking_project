@@ -1,3 +1,5 @@
-module banking
+module github.com/Lelo88/banking_project
 
 go 1.22.4
+
+require github.com/gorilla/mux v1.8.1
